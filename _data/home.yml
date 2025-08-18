@@ -85,13 +85,21 @@ project_entries:
     desc: Mine dogecoin. What else doofus.
     highlight: FAV
 
+  - title: Drifthunter
+    url: https://bighummus69.github.io/drifthunt/
+    desc: drift in a cool race track (will be on the loading screen for at least 20~ seconds)
+
+  - title: Driftmad
+    url: https://bighummus69.github.io/immad
+    desc: Drive and hope to not get crumbled.
+
   - title: Eaglercraft 1.5
     url: actual/e15/index.html
     desc: block game 1.5 in your browser
 
   - title: Eaglercraft 1.8
     url: e18
-    desc: block game 1.8 in your browser (u20 supports singleplayer now :))
+    desc: block game 1.8 in your browser (updated to u41, thanks eaglercraft1-8.github.io)
     
   - title: Fireboy and Water Girl Forest Temple
     url: fireandwater
